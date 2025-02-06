@@ -1,0 +1,11 @@
+## INTERNET 
+
+ye multiple device ka network hota hai, jo kisi medium ke through connected hai.
+fibre optics - Internet ki cables .
+humari jo websites hoti hai vo HTTP protocols pe based hoti hai .
+jab hum kuch search krte hai google pe , vo unke server pe request jati hai aur fir vhan se unka kuch response  aata hai , aur is request ko HTTP request kehte hai .
+
+## HTTP REQUEST AND RESPONSE 
+
+
+
